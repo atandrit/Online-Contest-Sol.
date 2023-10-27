@@ -30,7 +30,7 @@ int32_t main()
 {
     FAST_IO;
 
-    int t = 1; // Number of test cases
+    int t = 1; 
     cin >> t;
 
     while (t--)
